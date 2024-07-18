@@ -20,4 +20,7 @@ Methodology of simple calculator: A Simple calculator function by placing the in
 
 Key activities:
 
-Define arithme
+Define arithmetic function: define four functions for basic arithmetic operations.
+
+User input:prompt the user to enter two numbers
+
