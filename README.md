@@ -22,5 +22,13 @@ Key activities:
 
 Define arithmetic function: define four functions for basic arithmetic operations.
 
-User input:prompt the user to enter two numbers
+User input:prompt the user to enter two numbers and operation to perform.
+
+Call appropriate function: Used a conditional statement to call function based on user input.
+Result: displays the result operation of the user.
+
+Handle errors:raise a value errors if the users attempts to divide by zero or enters invalid operation.
+Technology used:
+
+Python:The programming language used to write the code and basic python programming concept and sytax to create a program.
 
